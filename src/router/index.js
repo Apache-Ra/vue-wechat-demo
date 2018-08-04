@@ -31,7 +31,7 @@ const router = new VueRouter({
       ]
     },
     {
-      path: '/login',
+      path: '/',
       name: 'login',
       component: resolve => require(['../components/login.vue'], resolve),
       meta: {title: '登录'}
