@@ -63,8 +63,6 @@ FastClick.attach(document.body)
 /**
  *  创建实例
  */
-
-// test
 new Vue({
   store,
   router,
