@@ -1,5 +1,8 @@
 # vue-wechat-admin
-本案例不再更新，建议转到 vue-admin （默认分支值包含工具类，less，不加载任何UI，分支里面有elementUI/iviewUI/vuxUI）
+> 案例不再更新
+>
+>建议转到 [vue-admin](https://github.com/Apache-Ra/vue-admin)
+
 > A Vue.js project
 
 ## Build Setup
